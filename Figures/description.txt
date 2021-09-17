@@ -1,0 +1,1 @@
+This folder contains the figures produced to support my analysis or check the model convergence.
